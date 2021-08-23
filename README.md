@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Chia-Hao (kaka) Lin 👋
 
-<!--
-**kaka-lin/kaka-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a software engineer at `Inventec` focusing on `developing Advanced Driver Assistance Systems (ADAS)`. <br/>
+🌱 I'm also a volunteering web developer in PyCon TW. <br/>
+🏫 I received M.S.(2015) in Bio-Industrial Mechatronics Engineering from National Taiwan University (NTU). <br/>
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaka-lin&layout=compact&langs_count=8&hide_border=true)
+<br />
+
+### Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=kaka-lin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
